@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi👋
+
+Sou o António Ch. Garcia!
+Seja bem vindo ao meu repositório do GitHub.
+
+Sou estudante de programação e gosto de aprender e procurar novos desafios para me ajudar no meu crescimento profissional.
 
 <!--
 **antoniogarciadev/antoniogarciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
