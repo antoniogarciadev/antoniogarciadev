@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o António Garcia, um desenvolvedor Front-End apaixonado por tecnologia
 
-
+## 👨‍💻 About Me
 💻 Estudante de Informática apaixonado por tecnologia, programação e design.  
 🚀 Interessado em desenvolvimento web, backend e bancos de dados.  
 📚 Atualmente estudando:
@@ -50,10 +50,11 @@
 
 ![António GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniogarciadev&show_icons=true&theme=radical)
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogarciadev&layout=compact&theme=tokyonight)
 
 ⭐ Sempre buscando aprender mais e desenvolver soluções criativas com tecnologia.
-
 <!--
 **antoniogarciadev/antoniogarciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
